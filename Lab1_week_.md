@@ -1,3 +1,5 @@
+## ลิงค์งาน บน Git Hub
+https://github.com/AnchisaPhetnoi/led-blink_LAB01.git
 ## รูปการทำงานของ Lab 01
 
 ![image](https://github.com/user-attachments/assets/c79e8f14-c9ff-405f-a035-a9772f1fb8e9)
