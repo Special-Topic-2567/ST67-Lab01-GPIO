@@ -18,3 +18,6 @@ https://github.com/AnchisaPhetnoi/led-blink_LAB01.git
 ![image](https://github.com/user-attachments/assets/f23a1376-a9f3-4df6-af01-46bfec8acb20)
 
 ![image](https://github.com/user-attachments/assets/f77901ec-01a5-45f0-8c57-c11ac5edb4de)
+![image](https://github.com/user-attachments/assets/a5e88aef-61a1-46f2-b556-4a96b4e15b7f)
+
+![image](https://github.com/user-attachments/assets/bf60be29-5a52-48fe-b2f3-458a40bda2cf)
